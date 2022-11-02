@@ -1,6 +1,11 @@
 # SQL_CAPSTONE
 
-Case Study of Restaurant
+# Case Study of Restaurant
+
+
+
+![image](https://user-images.githubusercontent.com/90106232/199474104-2c1fc3ce-bcbc-438d-9f59-208e42dc5450.png)
+
 
 Introduction to Case
 
